@@ -5,13 +5,13 @@
     font-family: "Rubik",sans-serif;
 }
 body{
-background-image: url(img/bg2.jpg);
+ background-color:#42e0a1ab;
 background-repeat: no-repeat;
 background-size: cover;
 
 }
 .container{
- background-color: #42e0a1ab;
+ background-color: #7FFFD4;
     width: 400px;
     padding: 50px;
     position: absolute;
